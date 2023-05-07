@@ -21,5 +21,5 @@ const CanvasModel = () => {
     </Canvas>
   ) 
 }
-//1hr10min
+//1hr10min24seconds
 export default CanvasModel;
